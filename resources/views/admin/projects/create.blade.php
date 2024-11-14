@@ -51,7 +51,6 @@
                     <input class="form-control" type="file" id="image" name="image"
                         value="{{ old('image') }}" required>
                 </div>
-
                 <div class="form-group">
                     <label for="url">URL:</label>
                     <input class="form-control" type="url" id="url" name="url"
